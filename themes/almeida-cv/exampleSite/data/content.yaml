@@ -1,7 +1,7 @@
 BasicInfo:
-  FirstName: Minerva
-  LastName: Moya
-  Photo: img/minerva2 3.jpeg
+  FirstName: Inês
+  LastName: Almeida
+  Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +44 123 456 789

@@ -6,8 +6,7 @@ enableEmoji = "true"
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = ""
-relativeURLs = "True"
+baseURL = "https://example.com/"
 title = "Example - CV"
 
 [params]
