@@ -1,116 +1,75 @@
 BasicInfo:
   FirstName: Minerva
   LastName: Moya
-  Photo: img/minerva2 3.jpeg
+  Photo: img/minerva2.jpeg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +52 33 1470 2125
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: mineloi2000@gmail.com
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: minervamoya.com
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Guadalajara, México
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Licenciada en Administración del Hogar, esposa y mamá de 5 maravillosos hijos. Maestría de vida con especialidad como abuela de los seres más maravillosos, mis nietos.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Universidad de Guadalajara
+    Place: Guadalajara, México
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Docente de Bachillerato
+        Date: 31 Años
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
-    Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
-        Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+          - Ponente en el Congreso de Orientación Educativa con la ponencia “Cruzando Puentes” (2015)
+          - Equipo de docentes formadores de Tutores y Orientadores Educativos (2008 a la fecha)
+          - Comité Organizador de los Congresos de Orientación Educativa (2000 a la fecha)
+          - Conferencista en diversas Preparatorias y Centros Universitarios.
+          - Colaboradora en el Proyecto de Investigación “Causas de Reprobación y Deserción en la Escuela Preparatoria Regional de Ahualulco de Mercado”.
+
+
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: Licenciada en Psicología
+    Place: Universidad de Guadalajara
+    Date: 1983
+    Details: 
 
-Skills:
-  - Family: Programming
-    Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
-    Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
+  - Course: Maestría en Desarrollo Humano y Acompañamiento de Grupos
+    Place: Centro Humanístico del Ser
+
+
+  - Course: Maestría en Sistemas Familiares
+    Place: Instituto KINTU
+
+
+  - Course: Certificada en Competencias Docentes para la Educación Media Superior
+    Place: ANUIES
+
+
+  - Course: Asistente al curso “Fundamentos de Proyectos de Investigación”
+    Place: Universidad de Guadalajara
+
+  - Course: Asistente al curso “Desarrollo de Habilidades Cognitivas desde la Comunicación Escrita"
+    Place: Universidad de Guadalajara    
 
 Languages:
-  - Name: Portuguese
-    Level: Native
-  - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
+  - Name: Español
+    Level: Nativo
+  - Name: Inglés
+    Level: Intermedio
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Consejería en Adicciones
+  - Descodicación Emocional
+  - Hipnosis Erksioniana
+  - Biomagnetismo
+  - Terapeuta Floral
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Mis Hijos
+  - Mis Nietos
+  - Redacción
+  - Meditación
+  - Lectura
+  - Docencia
