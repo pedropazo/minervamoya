@@ -8,7 +8,7 @@ disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 baseURL = ""
 relativeURLs = "True"
-title = "Example - CV"
+title = "Minerva Moya"
 
 [params]
 colorDark = "#666"
